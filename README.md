@@ -18,7 +18,7 @@ I'm Snow. Android Developer @ Beijing
 
 <img src='https://s2.loli.net/2022/04/15/qwCakudm6b49jG2.jpg' width='120'>
 
-微信小程序，疫情居家隔离期间，每天看日历还有多久接触隔离。恰好最近一段时间在学前端，于是自己写了日历小程序，同时增加了iPhone自带日历没有的阴历📅
+微信小程序，疫情居家隔离期间，每天看日历还有多久接触隔离。恰好最近一段时间在学前端，于是自己写了日历小程序，同时增加了iPhone自带日历没有的农历和法定节假日📅
 
 #### 乐记-口袋音乐
 [官网:https://music.jiudian.link](https://music.jiudian.link/)
