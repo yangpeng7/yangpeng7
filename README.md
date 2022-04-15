@@ -22,12 +22,16 @@ I'm Snow. Android Developer @ Beijing
 
 #### 乐记-口袋音乐
 [官网:https://music.jiudian.link](https://music.jiudian.link/)
+
 [iOS点击](https://apps.apple.com/cn/app/%E4%B9%90%E8%AE%B0-%E5%8F%A3%E8%A2%8B%E9%9F%B3%E4%B9%90/id1561811916)
+
 > Flutter开发的应用，本人是一个只会5323的吉他爱好者，之前研究了一段时间乐理，总结整理这个这个应用，同时还有节拍器功能🎸
 
 #### ColorLab-颜色实验室
 [官网:https://color.jiudian.link/](https://color.jiudian.link/)
+
 [iOS 点击](https://apps.apple.com/cn/app/colorlab-%E9%A2%9C%E8%89%B2%E5%AE%9E%E9%AA%8C%E5%AE%A4/id1579345165)
+
 > Flutter开发的应用，总结了一些好看的颜色🌈
 
 #### 九点二维码
