@@ -1,8 +1,10 @@
 <img align='right' src='https://octodex.github.com/images/daftpunktocat-guy.gif' width='200'>
 
-### Hi there 👋
+### Hi there 👋 
 
 I'm Snow. Android Developer @ Beijing [homepage](https://jiudian.link/)
+
+![](https://visitor-badge.glitch.me/badge?page_id=github.com/yangpeng7)
 
 以下是业余时间写的小应用
 
