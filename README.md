@@ -22,6 +22,14 @@ I'm Snow. Android Developer @ Beijing [homepage](https://jiudian.link/)
 
 微信小程序，疫情居家隔离期间，每天看日历还有多久解除隔离。恰好最近一段时间在学前端，于是自己写了日历小程序，同时增加了iPhone自带日历没有的法定节假日📅
 
+
+#### 小音节拍器
+一个好看的节拍器小程序，吉他练习必备神器。
+
+微信扫码体验
+
+<img src='https://s2.loli.net/2022/05/14/qR2Dy7lcrxTgPVe.jpg' width='120'>
+
 #### 乐记-口袋音乐
 [官网:https://music.jiudian.link](https://music.jiudian.link/)
 
@@ -38,7 +46,7 @@ I'm Snow. Android Developer @ Beijing [homepage](https://jiudian.link/)
 
 #### 九点二维码
 [https://qrcode.jiudian.link/](https://qrcode.jiudian.link/)
-> 之前需要一个个性化的二维码，遂写了一个💕
+> 之前需要一个个性化的二维码，于是写了一个💕
 
 
 
