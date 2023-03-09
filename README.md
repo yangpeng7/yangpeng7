@@ -30,6 +30,8 @@ I'm Snow. Android Developer @ Beijing [homepage](https://jiudian.link/)
 
 <img src='https://s2.loli.net/2022/05/14/qR2Dy7lcrxTgPVe.jpg' width='120'>
 
+**腾讯云服务器到期，以下服务端暂时停服**
+
 #### 乐记-口袋音乐
 [官网:https://music.jiudian.link](https://music.jiudian.link/)
 
