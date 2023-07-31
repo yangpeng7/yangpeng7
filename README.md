@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I'm Snow. Android Developer @ Beijing [homepage](https://jiudian.link/)
+I'm Snow. Android Developer @ Beijing [homepage](https://blog.tooltool.net/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/yangpeng7)
 
