@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-I'm Snow. Android Developer @ Beijing [homepage](https://oct.cool/)
+I'm Snow. Android Developer @ Beijing [homepage https://oct.cool](https://oct.cool/)
 
 ![](https://visitor-badge.glitch.me/badge?page_id=github.com/yangpeng7)
 
