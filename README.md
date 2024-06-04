@@ -2,9 +2,10 @@
 
 ### Hi there 👋 
 
-I'm Snow. Android Developer @ Beijing [homepage https://oct.cool](https://oct.cool/)
+I'm Snow. Android Developer @ Beijing [HomePage](https://oct.cool/)
 
-![](https://visitor-badge.glitch.me/badge?page_id=github.com/yangpeng7)
+### Social Media
+[Bilibili](https://space.bilibili.com/351336870)  |  [知乎](https://www.zhihu.com/people/snowspace)
 
 以下是业余时间写的小应用
 
@@ -32,7 +33,7 @@ I'm Snow. Android Developer @ Beijing [homepage https://oct.cool](https://oct.co
 
 **腾讯云服务器到期，以下服务端暂时停服**
 
-#### 乐记-口袋音乐
+#### ~~乐记-口袋音乐~~
 [官网:https://music.jiudian.link](https://music.jiudian.link/)
 
 [iOS点击](https://apps.apple.com/cn/app/%E4%B9%90%E8%AE%B0-%E5%8F%A3%E8%A2%8B%E9%9F%B3%E4%B9%90/id1561811916)
