@@ -2,7 +2,7 @@
 
 ### Hi there 👋 
 
-我是十月指南，前端。 [主页](https://oct.cool/)
+我是十月指南，前端。 [主页：https://oct.cool](https://oct.cool/)
 
 ### 社交媒体
 [Bilibili](https://space.bilibili.com/351336870)  |  [知乎](https://www.zhihu.com/people/snowspace)
@@ -30,9 +30,6 @@
 微信扫码体验
 
 <img src='https://s2.loli.net/2022/04/15/qwCakudm6b49jG2.jpg' width='120'>
-
-微信小程序，疫情居家隔离期间，每天看日历还有多久解除隔离。恰好最近一段时间在学前端，于是自己写了日历小程序，同时增加了iPhone自带日历没有的法定节假日📅
-
 
 #### 小音节拍器
 一个好看的节拍器小程序，吉他练习必备神器。
