@@ -2,12 +2,22 @@
 
 ### Hi there 👋 
 
-I'm Snow. Android Developer @ Beijing [HomePage](https://oct.cool/)
+I'm Snow. FE @ Beijing [HomePage](https://oct.cool/)
 
 ### Social Media
 [Bilibili](https://space.bilibili.com/351336870)  |  [知乎](https://www.zhihu.com/people/snowspace)
 
 以下是业余时间写的小应用
+
+#### 墨见编辑器
+[https://editor.oct.cool](https://editor.oct.cool)
+
+#### 在线工具
+[https://tooltool.net](https://tooltool.net)
+
+#### ImageSlicer
+[https://image.tooltool.net/](https://image.tooltool.net/)
+> 图片切割工具
 
 #### 竹叶日历
 一个极简的日历应用：
@@ -40,16 +50,12 @@ I'm Snow. Android Developer @ Beijing [HomePage](https://oct.cool/)
 
 > Flutter开发的应用，本人是一个只会5323的吉他爱好者，之前研究了一段时间乐理，总结整理这个这个应用，同时还有节拍器功能🎸
 
-#### ColorLab-颜色实验室
+#### ~~ColorLab-颜色实验室~~
 [官网:https://color.jiudian.link/](https://color.jiudian.link/)
 
 [iOS 点击](https://apps.apple.com/cn/app/colorlab-%E9%A2%9C%E8%89%B2%E5%AE%9E%E9%AA%8C%E5%AE%A4/id1579345165)
 
 > Flutter开发的应用，总结了一些好看的颜色🌈
-
-#### ImageSlicer
-[https://image.tooltool.net/](https://image.tooltool.net/)
-> 图片切割工具
 
 
 
