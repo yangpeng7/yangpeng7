@@ -2,9 +2,9 @@
 
 ### Hi there 👋 
 
-I'm Snow. FE @ Beijing [HomePage](https://oct.cool/)
+我是十月指南，前端。 [主页](https://oct.cool/)
 
-### Social Media
+### 社交媒体
 [Bilibili](https://space.bilibili.com/351336870)  |  [知乎](https://www.zhihu.com/people/snowspace)
 
 以下是业余时间写的小应用
