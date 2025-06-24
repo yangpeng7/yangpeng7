@@ -19,6 +19,20 @@
 [https://image.tooltool.net/](https://image.tooltool.net/)
 > 图片切割工具
 
+#### 省息宝
+专业的提前还贷计算器。
+
+微信扫码体验
+
+<img src='https://s2.loli.net/2025/06/24/LZbtaWQoIgxYyf6.jpg' width='120'>
+
+#### 风语白噪音
+Vibe Coding 作品，支持多种音频，助眠神器。
+
+微信扫码体验
+
+<img src='https://s2.loli.net/2025/06/24/igpuGC7VhUaH9K2.jpg' width='120'>
+
 #### 竹叶日历
 一个极简的日历应用：
 
@@ -31,14 +45,7 @@
 
 <img src='https://s2.loli.net/2022/04/15/qwCakudm6b49jG2.jpg' width='120'>
 
-#### 小音节拍器
-一个好看的节拍器小程序，吉他练习必备神器。
-
-微信扫码体验
-
-<img src='https://s2.loli.net/2022/05/14/qR2Dy7lcrxTgPVe.jpg' width='120'>
-
-**腾讯云服务器到期，以下服务端暂时停服**
+**腾讯云服务器到期，停服**
 
 #### ~~乐记-口袋音乐~~
 [官网:https://music.jiudian.link](https://music.jiudian.link/)
